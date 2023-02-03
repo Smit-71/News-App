@@ -1,6 +1,8 @@
-# news_app
+# News App
 
-A new Flutter project.
+A new Flutter project News App using NewsAPI.
+
+[News App Screenshots.pdf](https://github.com/Smit-71/News-App/files/10581484/News.App.Screenshots.pdf)
 
 ## Getting Started
 
